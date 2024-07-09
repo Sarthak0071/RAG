@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchainhub
+langchain-chroma
+bs4
+langchain-google-genai
+streamlit
